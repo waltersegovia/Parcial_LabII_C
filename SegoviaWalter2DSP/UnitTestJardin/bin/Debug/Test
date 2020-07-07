@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Alumno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Edad>45</Edad>
+  <Apellido>Juarez</Apellido>
+  <Dni>12234456</Dni>
+  <Nombre>Roberto</Nombre>
+  <Direccion>Corrientes 200</Direccion>
+  <Id>2</Id>
+</Alumno>

@@ -1,0 +1,5 @@
+﻿Abrió lista vacia
+Abrió lista vacia
+Abrió lista vacia
+Ejecutó evaluación con la lista Docente vacia
+Error en la serialización

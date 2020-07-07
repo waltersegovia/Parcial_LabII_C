@@ -1,0 +1,45 @@
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Jardin_UTN.exe.config
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Jardin_UTN.exe
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Jardin_UTN.pdb
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.FrmPpal.resources
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.Properties.Resources.resources
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.csproj.GenerateResource.cache
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.csproj.CopyComplete
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.exe
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.pdb
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.FrmEvaluacion.resources
+C:\Users\wseg\Desktop\2do ParcialLab2\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.FrmEvaluados.resources
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Jardin_UTN.exe.config
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Jardin_UTN.exe
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Jardin_UTN.pdb
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.FrmEvaluacion.resources
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.FrmEvaluados.resources
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.FrmPpal.resources
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.Properties.Resources.resources
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.csproj.GenerateResource.cache
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.csproj.CopyComplete
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.exe
+C:\Users\wseg\Desktop\Drive\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.pdb
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Jardin_UTN.exe.config
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Jardin_UTN.exe
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Jardin_UTN.pdb
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.FrmEvaluacion.resources
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.FrmEvaluados.resources
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.FrmPpal.resources
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.Properties.Resources.resources
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.csproj.GenerateResource.cache
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.csproj.CopyComplete
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.exe
+C:\Users\wseg\Desktop\Drive\Backup\SegoviaWalter2DSP\Jardin_UTN\obj\Debug\Jardin_UTN.pdb
